@@ -1,4 +1,12 @@
 # FSDH
+
+# Paper
+https://arxiv.org/pdf/1904.03556
+
+# Reference
+Gui J , Liu T , Sun Z , et al. Fast Supervised Discrete Hashing[J]. IEEE Trans Pattern Anal Mach Intell, 2018, PP(99):490-496.
+
+
 Matlab code for Fast Supervised Discrete Hashing
 
 Paper:
